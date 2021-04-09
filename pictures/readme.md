@@ -1,0 +1,1 @@
+Folder where pictures go
