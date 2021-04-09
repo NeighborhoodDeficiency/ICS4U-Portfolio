@@ -1,0 +1,116 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+ justify-content: center;
+}
+body {
+background-color:rgb(255,255,255);
+
+}
+.title {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.TOC {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+ul {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num1 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num2 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num3 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num4 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num5 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num6 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num7 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num8 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num9 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
+.num10 {
+text-Align:center;
+	background-color:rgb(255, 159, 5);
+	
+	border:ridge 5px;
+margin-left:30%;
+	margin-right:30%;
+}
